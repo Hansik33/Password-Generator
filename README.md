@@ -11,6 +11,6 @@ Then check if your password is strength enough.
 ## Sources:
 - https://www.flaticon.com/free-icon/password_1592485
 ## Download
-https://drive.google.com/file/d/1K3XhNyjmRDNMdv0Vzd8ga-YW0eGUWvpz/view?usp=sharing
+- https://drive.google.com/file/d/1K3XhNyjmRDNMdv0Vzd8ga-YW0eGUWvpz/view?usp=sharing
 
 
